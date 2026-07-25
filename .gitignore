@@ -1,0 +1,129 @@
+# =========================
+# OS SPECIFIC FILES
+# =========================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+*.swp
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.cab
+*.lnk
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# =========================
+# IDEs & EDITORS
+# =========================
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains (IntelliJ, CLion, etc.)
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.metadata/
+.settings/
+*.launch
+.classpath
+.project
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# =========================
+# C, C++, & ASSEMBLY
+# =========================
+
+# Compiled Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects & DLLs
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+*.bin
+
+# Assembly list/error files
+*.lst
+*.err
+
+# Build directories and CMake
+build/
+bin/
+obj/
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+
+# =========================
+# JAVA
+# =========================
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files (often used in early academia)
+*.ctxt
+
+# Package Files (Archives)
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# Virtual machine crash logs
+hs_err_pid*
+replay_pid*
